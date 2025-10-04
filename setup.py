@@ -5,9 +5,9 @@ def get_description():
     return "Deep Learning library for colorizing and restoring old images and video"
 
 
-# def get_long_description():
-#     with open("README.md") as f:
-#         return f.read()
+def get_long_description():
+    with open("README.md") as f:
+        return f.read()
 
 
 def get_requirements():
@@ -16,14 +16,14 @@ def get_requirements():
 
 
 setup(
-    name="Colorful Image Colorization",
+    name="Colorful_Image_Colorization",
     version="0.0.1",
     packages=find_packages(exclude=["tests"]),
     url="https://github.com/richzhang/colorization.git",
     license="BSD-2 Clause Simplified License",
     description=get_description(),
-    # long_description=get_long_description(),
-    # long_description_content_type="text/markdown",
+    long_description=get_long_description(),
+    long_description_content_type="text/markdown",
     classifiers=[
         # "Development Status :: 4 - Beta",
         # "Framework :: Jupyter",
