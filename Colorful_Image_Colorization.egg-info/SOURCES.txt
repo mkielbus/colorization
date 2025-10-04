@@ -1,0 +1,13 @@
+LICENSE
+README.md
+setup.py
+Colorful_Image_Colorization.egg-info/PKG-INFO
+Colorful_Image_Colorization.egg-info/SOURCES.txt
+Colorful_Image_Colorization.egg-info/dependency_links.txt
+Colorful_Image_Colorization.egg-info/requires.txt
+Colorful_Image_Colorization.egg-info/top_level.txt
+colorizers/__init__.py
+colorizers/base_color.py
+colorizers/eccv16.py
+colorizers/siggraph17.py
+colorizers/util.py

@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: Colorful-Image-Colorization
+Version: 0.0.1
+Summary: Deep Learning library for colorizing and restoring old images and video
+Home-page: https://github.com/richzhang/colorization.git
+License: BSD-2 Clause Simplified License
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Science/Research
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Requires-Python: >=3.6
+License-File: LICENSE
+
+UNKNOWN
+
